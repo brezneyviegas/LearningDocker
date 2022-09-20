@@ -1,4 +1,4 @@
 # LearningDocker
 
-Day01 - containerize Python applications with Docker
+Learning Docker using youtube tutorials.
 
